@@ -1,2 +1,2 @@
 # YourPlaces
-Mern-guide Lecture
+Mern-guide Lecture for my shoppingmall project
